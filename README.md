@@ -1,4 +1,4 @@
-# fcc-learn-sql-assets
+# learn-sql-assets for Web Developer 
 
 This is a snapshot of the code samples for the ["Learn SQL" course](https://boot.dev/courses/learn-sql) on [Boot.dev](https://boot.dev) at the time the video for FreeCodeCamp was released on YouTube. If you want the most up-to-date version of the code, please visit the official [Boot.dev course](https://boot.dev/courses/learn-sql). Otherwise, if you're looking for the files used in the video, you're in the right place!
 
